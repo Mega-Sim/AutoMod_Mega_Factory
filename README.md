@@ -1,10 +1,10 @@
 # AutoMod Mega Factory
 
-AutoMod 기반 대규모 Mega Factory / OHT 물류 시뮬레이션 데모 저장소입니다.
+AutoMod 기반 대규모 Mega Factory / 물류 시뮬레이션 데모 저장소입니다.
 
 ## Demo Video
 
-아래 이미지를 클릭하면 Mega Factory 시뮬레이션 데모 영상을 바로 열 수 있습니다.
+아래 이미지를 클릭하면 Mega Factory 시뮬레이션 데모 영상을 다운로드 받을 수 있습니다.
 
 [![Mega Factory Demo Video](./assets/mega_factory_thumbnail.png)](https://raw.githubusercontent.com/Mega-Sim/AutoMod_Mega_Factory/main/assets/Mega_factory.mp4)
 
