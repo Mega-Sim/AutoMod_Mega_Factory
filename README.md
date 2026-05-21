@@ -4,11 +4,11 @@ AutoMod 기반 대규모 Mega Factory / OHT 물류 시뮬레이션 데모 저장
 
 ## Demo Video
 
-아래 이미지를 클릭하면 Mega Factory 시뮬레이션 데모 영상을 볼 수 있습니다.
+아래 이미지를 클릭하면 Mega Factory 시뮬레이션 데모 영상을 바로 열 수 있습니다.
 
-[![Mega Factory Demo Video](./assets/mega_factory_thumbnail.png)](./assets/Mega_factory.mp4)
+[![Mega Factory Demo Video](./assets/mega_factory_thumbnail.png)](https://raw.githubusercontent.com/Mega-Sim/AutoMod_Mega_Factory/main/assets/Mega_factory.mp4)
 
-> GitHub README에서는 YouTube처럼 외부 플레이어를 완전히 동일하게 임베드하기 어렵기 때문에, 위처럼 재생 버튼이 들어간 썸네일 이미지를 클릭해 영상을 여는 방식으로 구성했습니다.
+> 썸네일을 클릭하면 GitHub 파일 보기 페이지가 아니라 raw MP4 주소로 이동합니다. 브라우저가 MP4 재생을 지원하면 새 화면에서 바로 재생됩니다.
 
 ## Overview
 
